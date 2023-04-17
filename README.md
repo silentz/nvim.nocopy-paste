@@ -2,7 +2,7 @@
 
 Neovim plugin for pasting text without copying underlying visual-selected text
 
-_gif with demo_
+![example.gif](https://user-images.githubusercontent.com/25668745/232460074-279b00dd-5393-4664-8734-03081696202a.gif)
 
 ## Installation
 
