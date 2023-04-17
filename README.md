@@ -26,5 +26,6 @@ end)
 
 ## FAQ
 
-* Q: Why not use `vnoremap <leader>p "_dP` instead of this plugin?
-* A: _gif with demo_
+* Q: Why not use `vnoremap p "_dP` instead of this plugin?
+* A: There is the problem while using `vnoremap p "_dP`. It happens while pasting in the end of a line:
+![vnoremap_example](https://user-images.githubusercontent.com/25668745/232464217-2d98b461-31c5-4d1c-8e11-3e7de3a35690.gif)
